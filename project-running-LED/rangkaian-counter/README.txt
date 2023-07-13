@@ -1,0 +1,1 @@
+=> Fungsi Counter adalah untuk membuat gerakan LED, dgn menghasilkan 16 ketukan/gerakan, setelah 16  gerakan tersebut, akan kembali lagi ke-gerakan awal.
